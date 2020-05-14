@@ -1,3 +1,7 @@
+# Home 
+![paralax](https://user-images.githubusercontent.com/60264180/81991397-8a7bba00-9617-11ea-98d9-bfaedb46268b.gif)
+
+---
 ![Parallax_web_capa](https://user-images.githubusercontent.com/60264180/79474107-63ac7280-7fdc-11ea-9c8c-7098cc841a79.png)
 
 # E o que é o Efeito Parallax?
