@@ -1,9 +1,14 @@
 # Home 
-![paralax](https://user-images.githubusercontent.com/60264180/81991545-e2b2bc00-9617-11ea-911a-3406c82d9c67.gif)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/60264180/81991545-e2b2bc00-9617-11ea-911a-3406c82d9c67.gif">
+</p>
 
 
 ---
-![Parallax_web_capa](https://user-images.githubusercontent.com/60264180/79474107-63ac7280-7fdc-11ea-9c8c-7098cc841a79.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/60264180/79474107-63ac7280-7fdc-11ea-9c8c-7098cc841a79.png">
+</p>  
 
 # E o que é o Efeito Parallax?
 Na computação gráfica, o efeito Parallax costuma ser simulado com a **técnica de mover imagens de fundo em uma velocidade mais lenta do que as imagens de primeiro plano**, criando no nosso cérebro a ilusão de profundidade em planos 2D.
